@@ -45,7 +45,7 @@ public class Joueur {
         return jeuDeCartes[lIndexAlea];
     }
 
-    public void setJeuDeCaartes(int[] value){
+    public void setJeuDeCartes(int[] value){
         this.jeuDeCartes = value;
     }
 
